@@ -1,5 +1,5 @@
 # Impact_of_Covid-19_Pandemic_on_the_Global_Economy_Analysis
-Studied the spread of covid-19 among the countries and its impact on the global economy.
+Studied the spread of covid-19 among the countries and its impact on the global economy. 
 
 The dataset is downloaded from Kaggle.
 
