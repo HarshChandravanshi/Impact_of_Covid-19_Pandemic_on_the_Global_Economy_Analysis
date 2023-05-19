@@ -21,6 +21,6 @@ It contains data about:
   
   7.stringency index of the countries
   
-  8.the population of the countries
+  8.the population of the countries 
   
   9.GDP per capita of the countries
