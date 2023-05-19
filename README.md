@@ -6,7 +6,7 @@ The dataset is downloaded from Kaggle.
 link - https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy
 
 It contains data about:
-
+ 
   1.the country code
   
   2.name of all the countries
