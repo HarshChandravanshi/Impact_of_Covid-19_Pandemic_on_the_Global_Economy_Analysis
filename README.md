@@ -13,7 +13,7 @@ It contains data about:
   
   3.date of the record
   
-  4.Human development index of all the countries 
+  4.Human development index of all the countries  
   
   5.Daily covid-19 cases
   
