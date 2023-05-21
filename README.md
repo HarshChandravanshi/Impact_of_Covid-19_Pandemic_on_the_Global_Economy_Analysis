@@ -17,7 +17,7 @@ It contains data about:
   
   5.Daily covid-19 cases
   
-  6.Daily deaths due to covid-19
+  6.Daily deaths due to covid-19 
   
   7.stringency index of the countries
   
